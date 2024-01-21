@@ -16,8 +16,6 @@ PassWord: Awvs@awvs.lan
 ## Download instructions:
 ### Docker_Awvs23.x one-click installation script [supports version updates] published on this blog is for learning and research purposes only;
 Thanks: XrSec
-Current software version: 9.23.231020153
-
-Note 1: For server connection reasons, it is possible. If it causes activation errors, you can try reinstalling!
-
-Note 2: Recommended to install Centos7 or Kali system.
+- Current software version: 9.23.231020153
+- Note 1: For server connection reasons, it is possible. If it causes activation errors, you can try reinstalling!
+- Note 2: Recommended to install Centos7 or Kali system.
