@@ -15,8 +15,7 @@ PassWord: Awvs@awvs.lan
 
 ## Download instructions:
 ### Docker_Awvs23.x one-click installation script [supports version updates] published on this blog is for learning and research purposes only;
-
-Thanks: XrSec
+####Thanks: XrSec
 
 Current software version: 9.23.231020153
 
