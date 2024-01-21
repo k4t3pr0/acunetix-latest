@@ -1,4 +1,4 @@
-# Acunetix_v23.x by k4t3pr0 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.acunetix-latest)
+# Acunetix_v23.x by k4t3pr0 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=acunetix-latest.acunetix-latest)
 ## Acunetix Premium v23.9
 
 ### Installation
