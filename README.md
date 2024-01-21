@@ -1,5 +1,5 @@
 # Acunetix_v23.x by k4t3pr0 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.acunetix-latest)
-## Acunetix Premium v23.9
+## Acunetix Premium -  Version: 23.9.231020153
 ### Installation
 ```sh
 bash <(curl -sLk https://raw.githubusercontent.com/k4t3pr0/acunetix-latest/main/check.sh) k4t3pr0/acunetix.23.x
