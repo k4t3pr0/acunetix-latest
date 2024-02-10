@@ -13,3 +13,6 @@ bash <(curl -sLk https://raw.githubusercontent.com/k4t3pr0/acunetix-latest/main/
 - Current software version: 23.9.231020153
 - Note 1: For server connection reasons, it is possible. If it causes activation errors, you can try reinstalling!
 - Note 2: Recommended to install Centos7 or Kali system.
+  
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=k4t3pr0/acunetix-latest&type=Date)](https://star-history.com/#k4t3pr0/acunetix-latest&Date)
