@@ -1,5 +1,6 @@
 # Acunetix_v23.x by k4t3pr0 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=k4t3pr0.acunetix-latest)
 ## Acunetix Premium -  Version: 23.9.231020153
+![version](https://img.shields.io/badge/Version-23.9.231020153-da282a) [![Docker Automated Build](https://img.shields.io/docker/automated/xrsec/awvs?label=Build&logo=docker&style=flat-square)](https://hub.docker.com/r/k4t3pr0/acunetix.23.x)
 ### Installation
 ```sh
 bash <(curl -sLk https://raw.githubusercontent.com/k4t3pr0/acunetix-latest/main/check.sh) k4t3pr0/acunetix.23.x
